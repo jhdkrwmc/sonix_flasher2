@@ -1,0 +1,182 @@
+[preview] request 1280x720@30
+[preview] opened /dev/video0
+[preview] request 1280x720@30
+[preview] opened /dev/video2
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:2  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Get_Enable  ==>
+      Get data[0] : 0x1
+      Get data[1] : 0x1
+OSD Enable Line = 1
+OSD Enable Block = 1
+XU_OSD_Get_Enable <== Success 
+
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:2  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Get_Size  ==>
+      Get data[0] : 0x1
+      Get data[1] : 0x2
+OSD Size (Line) = 1
+OSD Size (Block) = 2
+XU_OSD_Get_Size <== Success 
+
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:2  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Get_AutoScale  ==>
+      Get data[0] : 0x1
+      Get data[1] : 0x1
+OSD Enable Line  Auto Scale = 1
+OSD Enable Block Auto Scale = 1
+XU_OSD_Get_AutoScale <== Success 
+
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:2  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Get_Color  ==>
+      Get data[0] : 0x0
+      Get data[1] : 0x4
+OSD Font Color = 0
+OSD Border Color = 4
+XU_OSD_Get_Color <== Success 
+
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:2  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Set_Start_Position  ==>
+      Get data[0] : 0x0
+      Get data[1] : 0x0
+      Get data[2] : 0x0
+      Get data[3] : 0x0
+      Get data[4] : 0x0
+      Get data[5] : 0x0
+      Get data[6] : 0x0
+      Get data[7] : 0x0
+OSD Line Start Row =0 * 16lines
+OSD Line Start Col =0 * 16pixels
+OSD Block Start Row =0 * 16lines
+OSD Block Start Col =0 * 16pixels
+XU_OSD_Set_Start_Position <== Success 
+
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:2  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Get_Multi_Size  ==>
+      Get data[0] : 0x2
+      Get data[1] : 0x1
+      Get data[2] : 0x1
+OSD Multi Stream 0 Size = 2
+OSD Multi Stream 1 Size = 1
+OSD Multi Stream 2 Size = 1
+XU_OSD_Get_Multi_Size <== Success 
+
+v1.0.22_SONiX_UVC_TestAP_Multi
+kernel version 60500
+optind:3  optopt:0
+Device /dev/video2 opened: 292A-IPC-OV2710: USB Camera.
+XU_Ctrl_ReadChipID ==>
+   == XU_Ctrl_ReadChipID Success == 
+      ASIC READ data[0] : 1f
+      ASIC READ data[1] : 10
+      ASIC READ data[2] : 92 (Chip ID)
+      ASIC READ data[3] : 0
+ChipID = 2
+XU_Ctrl_ReadChipID <==
+XU_Multi_Get_Enable ==>
+      Get H264 Multi Stream Enable = 0
+      Get MJPG Multi Stream Enable =  0
+XU_Multi_Get_Enable <== Success
+XU_OSD_Get_String  ==>
+      Get data[0] : 0x0
+      Get data[1] : 0x0
+      Get data[2] : 0x0
+      Get data[3] : 0x0
+      Get data[4] : 0x0
+      Get data[5] : 0x0
+      Get data[6] : 0x0
+      Get data[7] : 0x0
+      Get data[8] : 0x0
+      Get data[9] : 0x0
+OSD String =  
+XU_OSD_Get_String <== Success 
+

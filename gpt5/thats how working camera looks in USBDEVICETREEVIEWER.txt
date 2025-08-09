@@ -1,0 +1,9 @@
+# OSD function-scoped patch diff
+off=0xA7C0 ea=0xA7C0 f0 74 -> e5 e0   code_A4FA: NOP MOVX @DPTR,A after DPTR=0x052F
+off=0xA800 ea=0xA800 f0 12 -> e5 e0   code_A4FA: NOP MOVX @DPTR,A after DPTR=0x052F
+off=0xA8D2 ea=0xA8D2 f0 80 -> e5 e0   code_A4FA: NOP MOVX @DPTR,A after DPTR=0x0561
+off=0xA8E2 ea=0xA8E2 f0 90 -> e5 e0   code_A4FA: NOP MOVX @DPTR,A after DPTR=0x052F
+off=0xAC38 ea=0xAC38 f0 90 -> e5 e0   code_AB91: NOP MOVX @DPTR,A after DPTR=0x052E
+off=0xAC52 ea=0xAC52 f0 90 -> e5 e0   code_AB91: NOP MOVX @DPTR,A after DPTR=0x052F
+off=0xACA2 ea=0xACA2 f0 74 -> e5 e0   code_AB91: NOP MOVX @DPTR,A after DPTR=0x052E
+off=0xB4EC ea=0xB4EC f0 22 -> e5 e0   code_B4E7: NOP MOVX @DPTR,A after DPTR=0x052F
