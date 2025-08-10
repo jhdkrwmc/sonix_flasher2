@@ -1,0 +1,27 @@
+var classfunc__t =
+[
+    [ "is_far", "classfunc__t.html#ad905b5c7488c7728b39c7a8c50f16350", null ],
+    [ "does_return", "classfunc__t.html#a960242ecc114d18866a98c734c983532", null ],
+    [ "analyzed_sp", "classfunc__t.html#a6d524f41db50b759e405d383cb343069", null ],
+    [ "need_prolog_analysis", "classfunc__t.html#a4a02e113bbd4ecb9bceaee595b967b7d", null ],
+    [ "flags", "classfunc__t.html#a3278bd032e8a3d89eeb7c0ca75e92455", null ],
+    [ "frame", "classfunc__t.html#a38a4fc253b5d88c343d973dbd2032dbe", null ],
+    [ "frsize", "classfunc__t.html#af7831991ec87f4696d51599ef59b97fc", null ],
+    [ "frregs", "classfunc__t.html#aaae89da99feeba7a2d3440d8582d85be", null ],
+    [ "argsize", "classfunc__t.html#a7910e262af144790e0f15056f834bda0", null ],
+    [ "fpd", "classfunc__t.html#a676f92e8f23adfdb5f5bc5be5a3345c4", null ],
+    [ "color", "classfunc__t.html#a8521dddcfd76518b168e246a4b2f3158", null ],
+    [ "pntqty", "classfunc__t.html#aa5f5d7e35d9b2942e5d63e0c3b44a19b", null ],
+    [ "points", "classfunc__t.html#a3a3ef0a7b09434e2ae72c4676f73d08d", null ],
+    [ "regvarqty", "classfunc__t.html#a92a980df038f9c49aabdd4203c323c8e", null ],
+    [ "regvars", "classfunc__t.html#a9f7893d3f4ecb73051edb08850c1883e", null ],
+    [ "llabelqty", "classfunc__t.html#a89cae881c32b0e234da035c3e6acbfb1", null ],
+    [ "llabels", "classfunc__t.html#a5f79c86a82afa77f247f876288a75182", null ],
+    [ "regargqty", "classfunc__t.html#a7f6f8fe155e8d59711c61c7dfc7e93c9", null ],
+    [ "regargs", "classfunc__t.html#a356ba8c3494588c27452b324b731994d", null ],
+    [ "tailqty", "classfunc__t.html#a05b3519db6c338c46217f07fef836428", null ],
+    [ "tails", "classfunc__t.html#a1320282c840fbb07d6937db0b2333629", null ],
+    [ "owner", "classfunc__t.html#afff6c2350b3d9ff3a2332706a2921e26", null ],
+    [ "refqty", "classfunc__t.html#a43817e724cc85bfb4ec200002786f74a", null ],
+    [ "referers", "classfunc__t.html#afadc3802e50f25f1f84f66b48e7b8650", null ]
+];
